@@ -1,13 +1,18 @@
 {
-  "name": "peter-helloworld",
-  "authors": [
-    "BAODIM\\peter.law <peter.law@uni-china.com.hk>"
-  ],
-  "description": "hello world",
-  "main": "js/helloworld.js",
-  "keywords": [
-    "hello"
-  ],
-  "license": "MIT",
-  "homepage": ""
+    "name": "adapt-peter-helloworld",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/peterlaw108/adapt-peter-helloworld.git"
+    },
+    "framework": "~2.0.0",
+    "authors": [
+        "BAODIM\\peter.law <peter.law@uni-china.com.hk>"
+    ],
+    "description": "hello world",
+    "main": "js/helloworld.js",
+    "keywords": [
+        "hello"
+    ],
+    "license": "MIT",
+    "homepage": ""
 }
