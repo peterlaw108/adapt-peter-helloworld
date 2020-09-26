@@ -1,0 +1,13 @@
+{
+  "name": "peter-helloworld",
+  "authors": [
+    "BAODIM\\peter.law <peter.law@uni-china.com.hk>"
+  ],
+  "description": "hello world",
+  "main": "js/helloworld.js",
+  "keywords": [
+    "hello"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
